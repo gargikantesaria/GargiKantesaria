@@ -2,7 +2,7 @@
 
 # Gargi Kantesaria
 
-Full-stack Engineer & Tech Lead at ownAI Solutions. 8+ years building SaaS products, enterprise software, cloud solutions, and AI-powered applications.
+Full-stack Engineer & Tech Lead at ownAI Solutions. 8+ years building SaaS products, Enterprise software, Cloud solutions, and AI-powered applications.
 
 Angular · Node.js · Python · AI Automation · LLMs · RAG · AWS · Shopify
 
