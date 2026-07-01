@@ -67,7 +67,9 @@ Angular · Node.js · Python · AI Automation · LLMs · RAG · AWS · Shopify
 
 ### Certifications
 
-**Angular - The Complete Guide (2024 Edition)** — [Verify](https://ude.my/UC-d3b78ecc-f6e7-4a3d-b634-fffe812a987b)
+**Angular - The Complete Guide (2024 Edition)** — [Verify](https://ude.my/UC-d3b78ecc-f6e7-4a3d-b634-fffe812a987b)<br>
+**Anthropic - AI-fluency Framework Foundations** — [Verify](https://verify.skilljar.com/c/hiskphqt7iz9)<br>
+**Anthropic - Claude 101** — [Verify](https://verify.skilljar.com/c/h5k7ge3h6msv)
 
 
 ---
