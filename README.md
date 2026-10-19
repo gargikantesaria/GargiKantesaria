@@ -70,6 +70,9 @@ Angular · Node.js · Python · AI Automation · LLMs · RAG · AWS · Shopify
 **Angular - The Complete Guide (2024 Edition)** — [Verify](https://ude.my/UC-d3b78ecc-f6e7-4a3d-b634-fffe812a987b)<br>
 **Anthropic - AI-fluency Framework Foundations** — [Verify](https://verify.skilljar.com/c/hiskphqt7iz9)<br>
 **Anthropic - Claude 101** — [Verify](https://verify.skilljar.com/c/h5k7ge3h6msv)
+****Google GenAI - Unlock Foundational Concepts** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28903239)
+****Google GenAI - Beyond the Chatbot** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28693371)
+****Google GenAI - Navigate the Landscape!** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28957663)
 
 
 ---
