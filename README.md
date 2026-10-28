@@ -72,7 +72,8 @@ Angular · Node.js · Python · AI Automation · LLMs · RAG · AWS · Shopify
 **Anthropic - Claude 101** — [Verify](https://verify.skilljar.com/c/h5k7ge3h6msv)<br>
 **Google GenAI - Unlock Foundational Concepts** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28903239)<br>
 **Google GenAI - Beyond the Chatbot** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28693371)<br>
-**Google GenAI - Navigate the Landscape!** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28957663)
+**Google GenAI - Navigate the Landscape!** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/28957663)<br>
+**Google Gen AI Apps: Transform Your Work** - [Verify](https://www.skills.google/public_profiles/9c7674cc-e5a3-492b-a7c9-8c370da032e5/badges/29182789)
 
 
 ---
